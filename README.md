@@ -1,6 +1,6 @@
 # Vektörel Bilişim - Python98 - Çok Fonksiyonlu Konsol Uygulaması Projesi
-14.02.2025 - Menuler Oluşturulmaya Başlandı
-14.02.2025 - Hesap Makinesi Fonksiyonu Eklendi (Şimdilik Basit Bir Tane Yazıldı Daha Sonra Hazır Hesap Makinesi ile Değiştirilebilir)
+#14.02.2025 - Menuler Oluşturulmaya Başlandı
+#14.02.2025 - Hesap Makinesi Fonksiyonu Eklendi (Şimdilik Basit Bir Tane Yazıldı Daha Sonra Hazır Hesap Makinesi ile Değiştirilebilir)
 18.02.2025 - Otomatik Menü Sistemi ve Modüler Yapı Tasarımına Geçildi
 Menülerin "menu.cfg" dosyasından okunarak otomatik oluşturlması sağlandı
 "Ayarlar" ve "Geri"/"Çıkış" seçenekleri sSabit Olarak Eklendi
